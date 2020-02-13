@@ -1,0 +1,22 @@
+input_resources/BMP_input.bmp
+output/BMP_output.bmp
+input_resources/digit0.bmp
+255 0 0
+input_resources/digit1.bmp
+255 255 0
+input_resources/digit2.bmp
+0 255 0
+input_resources/digit3.bmp
+0 255 255
+input_resources/digit4.bmp
+255 0 255
+input_resources/digit5.bmp
+0 0 255
+input_resources/digit6.bmp
+192 192 192
+input_resources/digit7.bmp
+255 140 0
+input_resources/digit8.bmp
+128 0 128
+input_resources/digit9.bmp
+128 0 0
