@@ -1,6 +1,6 @@
 # Pattern-matching
 
-An algorithm for encrypting and decrypting bmp files. The encrypted images have a uniform distribution of pixel values in each color channel, so as to hide the uneven distribution of pixel values in the original image that can provide relevant statistical information.
+An algorithm for the recognition of patterns (customized in this project to handwritten numbers) in a bmp image using a set of ten templates for the ten digits to be recognized.
 
 ## Compile and run
 ### pattern_matching_script.c
