@@ -1,5 +1,5 @@
-#ifndef ENCRYPTION_FUNCTIONS
-#define ENCRYPTION_FUNCTIONS
+#ifndef PATTERN_MATCHING_FUNCYIONS
+#define PATTERN_MATCHING_FUNCYIONS
 
 #include <stdio.h>
 #include <stdlib.h>
