@@ -1,5 +1,5 @@
-#ifndef PATTERN_MATCHING_FUNCYIONS
-#define PATTERN_MATCHING_FUNCYIONS
+#ifndef PATTERN_MATCHING_FUNCTIONS
+#define PATTERN_MATCHING_FUNCTIONS
 
 #include <stdio.h>
 #include <stdlib.h>
